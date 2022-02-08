@@ -1065,7 +1065,9 @@ a {
   }
 }
 .cid-sWO5hFFukU {
-  background-image: url("../../../assets/images/readme-img1-1850x1272.png");
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  background-image: url("../../../assets/images/promo-1584x908.png");
 }
 .cid-sWO5hFFukU .social-row .soc-item {
   display: inline-block;
@@ -1094,8 +1096,8 @@ a {
   color: #e13252;
 }
 .cid-sWO5VfoJ8d {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
   background-color: #e13252;
 }
 .cid-sWO5VfoJ8d .mbr-section-title {
