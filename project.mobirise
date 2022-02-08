@@ -60,7 +60,7 @@
     "uniqCompNum": 68,
     "versionPublish": "5.5.2",
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "screenshot": "screenshot.png",
     "favicon": false,
     "mbrsiteDomain": "meeticlive360",
