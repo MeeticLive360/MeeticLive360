@@ -1109,7 +1109,7 @@ a {
 }
 .cid-sWNPovGRlK {
   padding-top: 0rem;
-  padding-bottom: 1rem;
+  padding-bottom: 0rem;
   background-color: #e13252;
 }
 .cid-sWNPovGRlK .media-wrap {
@@ -1184,6 +1184,52 @@ a {
 .cid-sWaQ66Ld0S .mbr-section-title,
 .cid-sWaQ66Ld0S .mbr-section-subtitle,
 .cid-sWaQ66Ld0S .mbr-text {
+  text-align: center;
+}
+.cid-sWPUy0aybh {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sWPUy0aybh .nav-tabs .nav-item.open .nav-link:focus,
+.cid-sWPUy0aybh .nav-tabs .nav-link.active:focus {
+  outline: none;
+}
+.cid-sWPUy0aybh .nav-tabs {
+  flex-wrap: wrap;
+  border-bottom: 1px solid #6592e6;
+}
+@media (max-width: 767px) {
+  .cid-sWPUy0aybh .nav-item {
+    width: 100%;
+    margin: 0;
+  }
+}
+.cid-sWPUy0aybh .nav-tabs .nav-link {
+  transition: all .5s;
+  border: none;
+  border-bottom: 3px solid transparent;
+  border-radius: 0 !important;
+}
+.cid-sWPUy0aybh .nav-tabs .nav-link:not(.active) {
+  color: #000000;
+}
+.cid-sWPUy0aybh .nav-tabs .nav-item {
+  margin-right: 1.5rem;
+}
+.cid-sWPUy0aybh .nav-link,
+.cid-sWPUy0aybh .nav-link.active {
+  padding: 1rem 0;
+  background-color: transparent;
+}
+.cid-sWPUy0aybh .nav-tabs .nav-link.active {
+  color: #6592e6;
+  border-bottom: 3px solid #6592e6;
+}
+.cid-sWPUy0aybh H4 {
+  text-align: center;
+}
+.cid-sWPUy0aybh H3 {
   text-align: center;
 }
 .cid-sWNPovGRlK {
@@ -1733,6 +1779,7 @@ a {
 .cid-sWNKYMog5R .mbr-text,
 .cid-sWNKYMog5R .mbr-section-btn {
   text-align: left;
+  color: #e13252;
 }
 .cid-sWNKYMog5R .item-title {
   text-align: left;
@@ -1836,6 +1883,10 @@ a {
     margin-right: 2rem !important;
   }
 }
+.cid-sWNKYMog5R .mbr-section-subtitle {
+  text-align: left;
+  color: #ffffff;
+}
 .cid-sWPDa9w9OS {
   padding-top: 0rem;
   padding-bottom: 0rem;
@@ -1871,9 +1922,16 @@ a {
   width: 100%;
   object-fit: cover;
 }
+.cid-sWPDa9w9OS .card-title {
+  color: #e13252;
+}
+.cid-sWPDa9w9OS .mbr-text,
+.cid-sWPDa9w9OS .mbr-section-btn {
+  color: #e45e3f;
+}
 .cid-sWNPovGRlK {
   padding-top: 0rem;
-  padding-bottom: 1rem;
+  padding-bottom: 0rem;
   background-color: #e13252;
 }
 .cid-sWNPovGRlK .media-wrap {
