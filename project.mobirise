@@ -62,14 +62,14 @@
     "imageResize": true,
     "publishChangesOnly": false,
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/xyfdf-128x128.png",
+    "favicon": false,
     "mbrsiteDomain": "meeticlive360",
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://meeticlive360.github.io/MeeticLive360/",
+    "gdpr": false,
+    "cookiesAlert": false
   },
   "pages": {
     "index.html": {
